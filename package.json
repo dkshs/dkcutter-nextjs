@@ -2,7 +2,7 @@
   "name": "dkcutter-nextjs",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@9.15.3",
+  "packageManager": "pnpm@9.15.4",
   "description": "DKCutter NextJs is a framework for quickly starting Next.Js projects.",
   "author": "DKSHS",
   "license": "MIT",
